@@ -1,0 +1,13 @@
+body{
+    font-family: Verdana;
+    color : darkslategray;
+    background-color : papayawhip;
+  }
+  
+  img{
+    border-radius: 41px;
+background: #1e2c71;
+box-shadow:  5px 5px 10px #0c122d,
+             -5px -5px 10px #3046b5;
+  }
+  
